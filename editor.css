@@ -1,4 +1,39 @@
-body{
-    background-color: rgb(243, 243, 243);
+body {
+    background-color: rgb(255, 255, 255);
     font-family: 'Poppins', sans-serif;
+}
+
+.navbar { 
+    padding: 0.5rem 1rem;
+    background: linear-gradient(45deg,#DCE35B, #45B649);
+
+}
+
+.card-deck .card {
+    max-width: 250px;
+    margin-top: 30px;
+
+}
+
+h3 {
+    color:rgb(255, 255, 255);
+    margin-top: 50px;
+    text-align: center;
+    font-weight: bold;
+    background: linear-gradient(45deg,#DCE35B, #45B649);
+
+}
+
+
+.nav-item1, .nav-item2, .nav-item3 {
+    margin-left: 10px;
+    background: linear-gradient(45deg,#DCE35B, #45B649);
+    font-weight: bold;
+    border-radius: 8px;
+}
+
+.card {
+    border-width: 2px;
+    border-color: #DCE35B;
+
 }
